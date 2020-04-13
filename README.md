@@ -16,7 +16,7 @@ Helpers:
 - [@Cryptic](https://twitter.com/cr4ptic)
 - [@pixeljellyfish](https://twitter.com/pixeljellyfish)
 - [@TurntDucky](https://twitter.com/turntducky)
-- [@StevenMyllo](https://twitter.com/stevenmyllo)
+- [@StevenMyllo](https://twitter.com/myllo_steven)
 - [@c0dine](https://twitter.com/c0dine)<br/>
 
 ### Twitter
