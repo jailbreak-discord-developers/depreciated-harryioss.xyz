@@ -3,6 +3,9 @@
 <head>
   <title>harryioss | Website</title>
 
+  <!-- Meta Data Shit -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <!-- Stylesheet File -->
   <link href="css/main.css" rel="stylesheet">
   <link href="css/nav.css" rel="stylesheet">
@@ -11,25 +14,44 @@
   <!-- JavaScript Files -->
   <script src="js/nav.js"></script>
   <script src="js/main.js"></script>
+  <script src="js/navbarfix.js"></script>
+  <script src="js/resize.js"></script>
+  <script src="js/showandhide.js"></script>
+  <script src="js/toggle menu.js"></script>
+  <script src="js/unbindhover.js"></script>
+  <script src="js/windowevents.js"></script>
+  <script src="https://kit.fontawesome.com/9cd85c0021.js" crossorigin="anonymous"></script>
   <!-- JavaScript Files End -->
 
   <!-- NavBar -->
-  <nav class="nav">
-    <a href="#Home" class="nav-item is-active" active-color="orange">Home</a>
-
-    <a href="#About" class="nav-item" active-color="green">About</a>
-
-    <a href="#Staff" class="nav-item" active-color="blue">Staff</a>
-
-    <a href="https://github.com/jailbreak-discord-developers/harryioss-website?focus_code=true" class="nav-item">Github Sourcecode</a>
-
-    <span class="nav-indicator"></span>
-  </nav>
-
+<div class="container">
+  <a class="toggleMenu" href="#">Menu</a>
+  <ul class="nav">
+    <li class="test">
+      <a href="#">Menu</a>
+      <ul>
+        <li>
+          <a href="#">Harryioss Website</a>
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#About">About</a></li>
+            <li><a href="#Team">Web Developers</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#">Jailbreak</a>
+          <ul>
+            <li><a href="https://checkra.in/">Checkra1n</a></li>
+            <li><a href="https://chimera.sh/">Chimra</a></li>
+            <li><a href="https://unc0ver.dev/">Unc0ver</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+</ul>
+</div>
   <!-- NavBar End -->
-
 </head>
-
 <body>
   <center>
     <!--/ Special Thanks /-->
@@ -99,5 +121,4 @@
     <!--/ Special Thanks End/-->
   </center>
 </body>
-
 </html>
