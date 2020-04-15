@@ -4,23 +4,23 @@
 h1 {
     text-align: center;
     font-size: 100px;
-    color: rgb(46, 46, 46);
+    color: #2e2e2e;
 }
 
 h2 {
     font-size: 45px;
     margin-bottom: 50px;
-    color: rgb(61, 61, 61);
+    color: #3d3d3d;
 }
 
 h3 {
     font-size: 28px;
-    color: gray;
+    color: #808080;
 }
 
 p {
     font-size: 25px;
-    color: rgb(58, 58, 58);
+    color: #3a3a3a;
 }
 
 .h2staff{
