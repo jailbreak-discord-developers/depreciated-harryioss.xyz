@@ -23,7 +23,6 @@ p {
     color: rgb(58, 58, 58);
 }
 
-
 .h2staff{
     text-align: center;
 }
@@ -75,7 +74,7 @@ user .icon-container {
 
 user a {
     text-rendering: optimizeLegibility;
-    color: #ff9267;
+    color: #ff9100;
     position: absolute;
     top: 15;
     right: 15;

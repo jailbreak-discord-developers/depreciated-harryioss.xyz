@@ -4,11 +4,27 @@
 <head>
     <title>harryioss | Website</title>
 
-<!-- Stylesheet File -->
+<!-- Stylesheet -->
 <link href="css/main.css" rel="stylesheet">
 </head>
 
 <center>
+
+    <div class="top" style="display:block;width:100%;padding:10px;height:100px;">
+        <p style="font: size 14;px;">
+        <script>
+        var mydate=new Date()
+        var year=mydate.getYear()
+        var day=mydate.getDay()
+        var month=mydate.getMonth()
+        var daym=mydate.getDate()
+        if (daym<10)
+            daym="0"+daym
+            var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+            var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+            document.write("<font color='777777'>"+dayarray[day]+", "+montharray[month]+" "+daym+"<\/font>")
+        </script>
+    </div>
 
 <!--/ Special Thanks /-->
     <section id="staff">
@@ -21,7 +37,7 @@
               <i class="fa fa-twitter"></i>
             </a>
             <h3>Cryptic</h3>
-            <p>Owner, Web Developer</p>
+            <p>Web Developer</p>
           </user>
           <user data-aos="zoom-in-up">
             <div class="icon-container">
