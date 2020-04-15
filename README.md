@@ -13,7 +13,8 @@ Website Devloper, iOS Developer
 
 ### My Website
 The Team :)
-- [Cryptic](https://twitter.com/cr4ptic)
+- [Cryptic](https://twitter.com/cr4ptic
+)
 - [Pixeljellyfish](https://twitter.com/pixeljellyfish)
 - [TurntDucky](https://twitter.com/turntducky)
 - [StevenMyllo](https://twitter.com/myllo_steven)
