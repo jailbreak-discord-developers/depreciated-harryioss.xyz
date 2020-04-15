@@ -12,15 +12,15 @@ My Website
 Website Devloper, iOS Developer
 
 ### My Website
-Helpers:
-- [@Cryptic](https://twitter.com/cr4ptic)
+The Team :):
+- [@cryptic](https://twitter.com/cr4ptic)
 - [@pixeljellyfish](https://twitter.com/pixeljellyfish)
-- [@TurntDucky](https://twitter.com/turntducky)
-- [@StevenMyllo](https://twitter.com/myllo_steven)
+- [@turntducky](https://twitter.com/turntducky)
+- [@stevenmyllo](https://twitter.com/myllo_steven)
 - [@c0dine](https://twitter.com/c0dine)<br/>
 
 ### Twitter
 [@harryioss](https://twitter.com/harryioss) <br/>
 
 ### Discord Server
-[Discord Server](https://discord.gg/vG23fCF) <br/>
+[Join :)](https://discord.gg/vG23fCF) <br/>
