@@ -36,7 +36,7 @@ p {
     color: #3a3a3a;
 }
 
-.h2staff{
+.h2thanks{
     text-align: center;
 }
 
@@ -85,7 +85,7 @@ user .icon-container {
 
 user a {
     text-rendering: optimizeLegibility;
-    color: #ff9267;
+    color: #ff9100;
     position: absolute;
     top: 15;
     right: 15;
