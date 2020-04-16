@@ -53,6 +53,22 @@
   <!-- NavBar End -->
 </head>
 <body>
+<!-- Cryptic Date -->
+  <div class="top" style="display:block;width:100%;padding:10px;height:100px;">
+    <p style="font: size 14;px;">
+    <script>
+    var mydate=new Date()
+    var year=mydate.getYear()
+    var day=mydate.getDay()
+    var month=mydate.getMonth()
+    var daym=mydate.getDate()
+    if (daym<10)
+        daym="0"+daym
+        var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+        var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
+        document.write("<font color='777777'>"+dayarray[day]+", "+montharray[month]+" "+daym+"<\/font>")
+    </script>
+<!-- Cryptic Date End -->
   <center>
     <!--/ Special Thanks /-->
     <section id="staff">
