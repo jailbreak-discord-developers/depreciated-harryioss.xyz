@@ -1,8 +1,13 @@
-$(document).ready(function () {
-    $(".toggleMenu").css("display", "none");
-    $(".nav li").hover(function () {
-        $(this).addClass('hover');
-    }, function () {
-        $(this).removeClass('hover');
-    });
+if ($(window).width() < 897) {
+	$(".shrink").hide();
+} else {
+	$(".shrink").show();
+}
+
+$(window).on("resize", function() {
+	if ($(window).width() < 897) {
+		$(".shrink").hide();
+	} else {
+		$(".shrink").show();
+	}
 });
